@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vosshassignment/static/css/main.c6871332.css",
+    "main.js": "/vosshassignment/static/js/main.b84d0de8.js",
+    "index.html": "/vosshassignment/index.html",
+    "main.c6871332.css.map": "/vosshassignment/static/css/main.c6871332.css.map",
+    "main.b84d0de8.js.map": "/vosshassignment/static/js/main.b84d0de8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6871332.css",
+    "static/js/main.b84d0de8.js"
+  ]
+}
