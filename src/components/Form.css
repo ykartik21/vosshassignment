@@ -1,0 +1,98 @@
+/* form */
+
+.form{
+    background-image: url("https://voosh.in/static/media/book_now_bg.e9f9294653918137cd78.webp");
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    position: relative;  
+}
+.form-heading{
+    text-transform: capitalize;
+    font-size: 48px;
+    position: absolute;
+    left: 150px;
+    color: white;
+    font-weight: 500;
+}
+.form-container{
+    right: 100px;
+    position: absolute;
+    padding: 10px 4px 10px 4px;
+    border-radius: 10px;
+    width: 450px; 
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+    height: 420px;
+    
+}
+.input_space{
+    font-size: 14px;
+    margin: 5px;
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    outline: none;
+    border: 0px;
+   
+}
+input{
+    background-color: whitesmoke;
+    margin-top: 3px;
+    outline: none;
+    border: none;
+    height: 40px;
+    border-radius: 3px;
+    padding-left: 10px;
+}
+.btn{
+    width: 95%;
+    height: 45px;
+    font-size: 16px;
+    border: none;
+    font-weight: 300;
+    border-radius: 3px;
+    margin-bottom: 3px;
+    background-color: #2d66f5;
+    color: white;
+    cursor: pointer;
+    font-weight: 500;
+}
+.redStar{
+    color: red;
+}
+.login-container{
+    right: 100px;
+    position: absolute;
+    border-radius: 10px;
+    width: 450px; 
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 420px;
+}
+.up{
+    width: 100%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.log-img{
+   height: 80%;
+}
+.down{
+    width: 90%;
+    height: 20%;
+    font-size: 15px;
+    text-align: center;
+    font-weight: 500;
+    color: #000000;
+    text-transform: capitalize;
+}
